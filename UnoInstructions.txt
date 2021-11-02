@@ -1,0 +1,32 @@
+<html>
+<h1 style="color: #5e9ca0; text-align: center;"><span style="color: #008080;">Welcome to the game of UNO!</span></h1>
+<h3 style="color: #5e9ca0; text-align: left;"><span style="color: #000000;">Players: 2&nbsp;</span>&nbsp;</h3>
+<p><strong><span style="color: #008080;">RULES:</span> Each player will be dealt 7 cards.</strong><strong> Players will take&nbsp;</strong><strong>turns playing one card at a time.&nbsp;</strong></p>
+<p><strong>The card played must be the same colour (same tens place) or the same&nbsp;</strong><strong>number </strong></p>
+<p><strong>(same ones place) as the previous card laid down. If a player has </strong><strong>no cards that can be played,</strong></p>
+<p><strong>they must draw a card from the pile. A player&nbsp;</strong><strong>can have a maximum of 20 cards in their hand. </strong></p>
+<p><strong>Beyond 20, </strong><strong>they are not&nbsp;</strong><strong>required to draw. The first player to play all their cards wins. </strong></p>
+<p>&nbsp;</p>
+<p>To <strong>PLAY</strong> a card: Type the number of the card into the console and press ENTER</p>
+<p>To <strong>DRAW</strong> a card: Type the word "draw" into the console and press ENTER</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #008080;">CARDS:</span></strong></p>
+<table style="width: 549px; border-color: black; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 126px;"><span style="color: #ff0000;"><strong>RED</strong></span></td>
+<td style="width: 135px;"><span style="color: #ffcc00;"><strong>YELLOW</strong></span></td>
+<td style="width: 131px;"><span style="color: #008000;"><strong>GREEN</strong></span></td>
+<td style="width: 129px;"><span style="color: #0000ff;"><strong>BLUE</strong></span></td>
+</tr>
+<tr>
+<td style="width: 126px;"><strong>1-9</strong></td>
+<td style="width: 135px;"><strong>11-19</strong></td>
+<td style="width: 131px;"><strong>21-29</strong></td>
+<td style="width: 129px;"><strong>31-39</strong></td>
+</tr>
+</tbody>
+</table>
+<p><span style="color: #ff6600;">&nbsp;</span></p>
+<p><span style="color: #ff6600;"><strong>NOTE:&nbsp;</strong><span style="color: #000000;">Game played in the console</span></span></p>
+</html>
